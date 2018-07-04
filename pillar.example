@@ -1,0 +1,2 @@
+vyos_config:
+  config.boot: salt://<path/<to>/<file>
